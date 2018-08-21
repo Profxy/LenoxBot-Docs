@@ -849,12 +849,12 @@
                 <h1 id="set-up-the-mute-command">Set up the <code>?mute</code> command<a class="headerlink" href="#set-up-the-mute-command" title="Permanent link">&para;</a></h1>
 <p>In this tutorial I'll show you, how to set up the <code>?mute</code> command, that it works correctly.</p>
 <p>It's really easy, so <strong>lets go</strong>. :D</p>
-<p>First, you have to create a new role, or use a role that exists already.
-The role <strong>shouldn't</strong> have the following permissions:</p>
+<p>First, you have to create a new role, or choose a role that already exists.
+The role <strong>shouldn't</strong> have the following permission:</p>
 <p><img alt="Image Permisson" src="https://i.imgur.com/Nr0TfQk.png" /></p>
-<p>Also, the position of the role <strong>should</strong> be <strong>over</strong> the roles, that should be able to mute, so the "Mute" role can overwrite the text-permissions of the roles, which position is under the "Mute" role.</p>
+<p>Also, the position of the "Mute" role <strong>should</strong> be <strong>above</strong> the muteable roles, to make shure that the "Mute" role can overwrite the text-permissions of the roles, which are below the "Mute" role.</p>
 <p><img alt="Image Role-Postition" src="https://i.imgur.com/yBvWJ5N.png" /></p>
-<p>Now, you can define the "Mute" role for the bot with <code>?muterole</code> <em>rolename</em></p>
+<p>After that, define the "Mute" role for LenoxBot with <code>?muterole</code> <em>rolename</em></p>
 <p><img alt="Image Muterole" src="https://i.imgur.com/dJ0wFZS.png" /></p>
 <p><strong>That's it.</strong> Now you can use <code>?mute</code> <em>@User time{d, h, m, s} {reason}</em></p>
 <p><img alt="Image Mute" src="https://i.imgur.com/mHJdqrR.png" /></p>

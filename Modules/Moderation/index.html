@@ -849,13 +849,16 @@
                 <h1 id="moderation-commands">Moderation commands<a class="headerlink" href="#moderation-commands" title="Permanent link">&para;</a></h1>
 <ul>
 <li><code>ban {@User/UserID} {reason}</code> - Bans a user from the Discord server with a certain reason (Needed permissions: BAN_MEMBERS)</li>
-<li><code>clear {2-100}</code> - Deletes for you the last X messages that were sent in the current channel (Needed permissions: MANAGE_MESSAGES)</li>
-<li><code>kick @User {reason}</code> - Kick a user from the Discord server with a certain reason (Needed permissions: KICK_MEMBERS)</li>
+<li><code>clear {amount of messages between 2 and 100}</code> - Deletes for you the last X messages that were sent in the current channel (Needed permissions: MANAGE_MESSAGES)</li>
+<li><code>currentlybanned [@USER/UserID]</code> -  (Needed permissions: KICK_MEMBERS)</li>
+<li><code>currentlymuted [@USER/UserID]</code> -  (Needed permissions: KICK_MEMBERS)</li>
+<li><code>kick {@User} {reason}</code> - Kick a user from the Discord server with a certain reason (Needed permissions: KICK_MEMBERS)</li>
 <li><code>mute {@User} {time (d, h, m, s)} {reason}</code> - Mutes a user for a certain time (Needed permissions: KICK_MEMBERS)</li>
-<li><code>softban @User {days} {reason}</code> - Bans a user and deletes his messages of the last X days. After that, he will be unbaned immediately! (Needed permissions: BAN_MEMBERS)</li>
-<li><code>unban {userid} {reason}</code> - Unban a user from the Discord server with a certain reason (Needed permissions: BAN_MEMBERS)</li>
+<li><code>softban @User {days} {reason}</code> - Bans a user and deletes his messages of the last X days (max 14 days). After that, he will be unbaned immediately! (Needed permissions: BAN_MEMBERS)</li>
+<li><code>temporaryban {@User/UserID} {time (d, h, m, s)} {reason}</code> - Bans an user temporary (Needed permissions: BAN_MEMBERS)</li>
+<li><code>unban {userID} {reason}</code> - Unban a user from the Discord server with a certain reason (Needed permissions: BAN_MEMBERS)</li>
 <li><code>unmute {@User} {reason}</code> - Unmutes a user (Needed permissions: KICK_MEMBERS)</li>
-<li><code>warn @User {reason}</code> - Warn a user on the Discord server with a certain reason (Needed permissions: KICK_MEMBERS)</li>
+<li><code>warn {@User/UserID} {reason}</code> - Warn a user on the Discord server with a certain reason (Needed permissions: KICK_MEMBERS)</li>
 <li><code>warnlog [@User]</code> - Shows you the warnlog from you or another user (Needed permissions: KICK_MEMBERS)</li>
 </ul>
                 
