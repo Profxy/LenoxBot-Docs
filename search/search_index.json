@@ -77,22 +77,27 @@
         }, 
         {
             "location": "/General FAQ/Help/Make a proposal/", 
-            "text": "Make a proposal\n\n\nIf you want to make a proposal, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nYou go to the \n#proposals\n channel.\n\n\nThen you type \n?proposal\n in the chat.\n\n\nYou fill out all answers and wait for feedback from the Proposalwriters.", 
+            "text": "Make a proposal\n\n\nIf you want to make a proposal, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nGo to the \n#proposals\n channel.\n\n\n\n\n\n\n\n\nThen type \n?proposal\n in the chat.\n\n\n\n\n\n\n\n\nJust fill out all answers and wait for feedback from the Proposalwriters.\n\n\n\n\nAfter you have answered all the questions, your suggestion will be sent in the #processing-proposals channel. In this channel the \"Proposalwriter\" processed your suggestion. They can accept your suggestion, reject it, add notes or attach a screenshot.\n\n\nAfter your suggestion has been accepted by three different Proposalwriters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.\n\n\nHow do I become a Proposalwriter?\n\n\nIf you want to become Proposalwriter, please visit this description: \nHow to become a Proposalwriter", 
             "title": "Make a proposal"
         }, 
         {
             "location": "/General FAQ/Help/Make a proposal/#make-a-proposal", 
-            "text": "If you want to make a proposal, do the following steps:   Join the LenoxBot Discord Server:  Join  You go to the  #proposals  channel.  Then you type  ?proposal  in the chat.  You fill out all answers and wait for feedback from the Proposalwriters.", 
+            "text": "If you want to make a proposal, do the following steps:   Join the LenoxBot Discord Server:  Join  Go to the  #proposals  channel.     Then type  ?proposal  in the chat.     Just fill out all answers and wait for feedback from the Proposalwriters.   After you have answered all the questions, your suggestion will be sent in the #processing-proposals channel. In this channel the \"Proposalwriter\" processed your suggestion. They can accept your suggestion, reject it, add notes or attach a screenshot.  After your suggestion has been accepted by three different Proposalwriters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.", 
             "title": "Make a proposal"
         }, 
         {
+            "location": "/General FAQ/Help/Make a proposal/#how-do-i-become-a-proposalwriter", 
+            "text": "If you want to become Proposalwriter, please visit this description:  How to become a Proposalwriter", 
+            "title": "How do I become a Proposalwriter?"
+        }, 
+        {
             "location": "/General FAQ/Help/Report a bug/", 
-            "text": "Report a bug\n\n\nIf you want to report a bug, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nYou go to the \n#bugreports\n channel.\n\n\nThen you type \n?bugreport\n in the chat.\n\n\nYou fill out all answers and wait for feedback from the Bugreporter.", 
+            "text": "Report a bug\n\n\nIf you want to report a bug, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nGo to the \n[#bugreports](https://discordapp.com/channels/352896116812939264/447371541441937408)\n channel.\n\n\n\nThen you type \n?bugreport\n in the chat.\n\n\n\nJust fill out all answers and wait for feedback from the Bugreporter.\n\n\n\n\nAfter you have answered all the questions, your bugreport will be sent in the #processing-bugreports channel. In this channel the \"Bugreporter\" processed your bugreport. They can accept your bugreport, reject it, add notes or attach a screenshot.\n\n\nAfter your bugreport has been accepted by three different Bugreporters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.", 
             "title": "Report a bug"
         }, 
         {
             "location": "/General FAQ/Help/Report a bug/#report-a-bug", 
-            "text": "If you want to report a bug, do the following steps:   Join the LenoxBot Discord Server:  Join  You go to the  #bugreports  channel.  Then you type  ?bugreport  in the chat.  You fill out all answers and wait for feedback from the Bugreporter.", 
+            "text": "If you want to report a bug, do the following steps:   Join the LenoxBot Discord Server:  Join  Go to the  [#bugreports](https://discordapp.com/channels/352896116812939264/447371541441937408)  channel.  Then you type  ?bugreport  in the chat.  Just fill out all answers and wait for feedback from the Bugreporter.   After you have answered all the questions, your bugreport will be sent in the #processing-bugreports channel. In this channel the \"Bugreporter\" processed your bugreport. They can accept your bugreport, reject it, add notes or attach a screenshot.  After your bugreport has been accepted by three different Bugreporters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.", 
             "title": "Report a bug"
         }, 
         {
@@ -146,6 +151,21 @@
             "title": "Trello"
         }, 
         {
+            "location": "/General FAQ/Team/Bugreporter/", 
+            "text": "How do I become a Bugreporter?\n\n\nIf you want to become a Bugreporter, do the following steps:\n\n\nWe've developed a pointsystem which decides when you will be a Bugreporter.\n- You get for every bugreport 2 points\n\n\n\n\n\n\nIf you reached 10 points / 5 accepted bugreports, you will become a Bugreporter and get access to help us with our bugreports!\n\n\n\n\n\n\nIf you have any questions, feel free write your question in \n#support\n to find a solution together with our LenoxBot-Team!\n\n\n\n\n\n\n\n\nReport a bug\n\n\nIf you want to make a proposal visit this description: \nReport a bug", 
+            "title": "How to become a Bugreporter"
+        }, 
+        {
+            "location": "/General FAQ/Team/Bugreporter/#how-do-i-become-a-bugreporter", 
+            "text": "If you want to become a Bugreporter, do the following steps:  We've developed a pointsystem which decides when you will be a Bugreporter.\n- You get for every bugreport 2 points    If you reached 10 points / 5 accepted bugreports, you will become a Bugreporter and get access to help us with our bugreports!    If you have any questions, feel free write your question in  #support  to find a solution together with our LenoxBot-Team!", 
+            "title": "How do I become a Bugreporter?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Bugreporter/#report-a-bug", 
+            "text": "If you want to make a proposal visit this description:  Report a bug", 
+            "title": "Report a bug"
+        }, 
+        {
             "location": "/General FAQ/Team/Designer/", 
             "text": "How to become a Designer of LenoxBot?\n\n\nYou want to be a \nDesigner\n? Contanct Monkeyyy11#0001 via Discord or \n@Monkeyyy11_ via Twitter", 
             "title": "Designer"
@@ -176,6 +196,21 @@
             "title": "How to become a Moderator of LenoxBot?"
         }, 
         {
+            "location": "/General FAQ/Team/Proposal-Writer/", 
+            "text": "How to become a Proposalwriter?\n\n\nIf you want to become a Proposalwriter, do the following steps:\n\n\nWe have developed a pointsystem which decides when you become be a Proposalwriter.\n\n\nThe system works like this:\n\n\n\n\nYou get 2 points for every accepted suggestion\n\n\n\n\nAs soon as you have reached 10 points / 5 accepted suggestions, you become a Proposalwriter and can help us to work on the suggestions!\n\n\nMake a proposal\n\n\nIf you want to make a proposal visit this description: \nMake a proposal", 
+            "title": "How to become a Proposalwriter"
+        }, 
+        {
+            "location": "/General FAQ/Team/Proposal-Writer/#how-to-become-a-proposalwriter", 
+            "text": "If you want to become a Proposalwriter, do the following steps:  We have developed a pointsystem which decides when you become be a Proposalwriter.  The system works like this:   You get 2 points for every accepted suggestion   As soon as you have reached 10 points / 5 accepted suggestions, you become a Proposalwriter and can help us to work on the suggestions!", 
+            "title": "How to become a Proposalwriter?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Proposal-Writer/#make-a-proposal", 
+            "text": "If you want to make a proposal visit this description:  Make a proposal", 
+            "title": "Make a proposal"
+        }, 
+        {
             "location": "/General FAQ/Team/Translator/", 
             "text": "How to become a translator of LenoxBot?\n\n\nYou want to be a \ntranslator\n? \nContanct \nDanNick#8108\n via Discord or \n@DanNick_MC via Twitter", 
             "title": "Translator"
@@ -186,14 +221,14 @@
             "title": "How to become a translator of LenoxBot?"
         }, 
         {
-            "location": "/General FAQ/Website/Dashboard/", 
-            "text": "Dashboard\n\n\nWhat offers our Dashboard?\nWhere can I find the Dashboard?", 
+            "location": "/General FAQ/Website/dashboard/", 
+            "text": "# An introduction about our Dashboard\n\n\nOn our Dashboard you can do the following things:\n\n\n\n\nYou can see some informations about your server. Like how many Members, Channels and Roles your server have and also wich Prefix works on your server.\n\n\nYou can see some informations about your server. (How many Members, Channels and Roles your server has and also wich Prefix works on your server)\n\n\nYou can enable / disable modules.\n\n\nYou can enable / disable commands.\n\n\nYou can edit commands, Welcome and Goodbye messages.\n\n\nYou can edit your Log.\n\n\nYOu can edit your Chatfilter.\n\n\nYou can create or edit Custom Commands.\n\n\n\n\nWhere can I find the Dashboard?\n\n\nHere you can find our Dashboard:\n\n\n\n\nClick on the Dashboard-Button: \nDashboard\n\n\nIf you aren't logged in now please click on the \"Log in\" button in the right corner of the website.\n\n\nIf you aren't logged in with your Discord Account you have to login so you can authorize the LenoxBot.\n\n\nThan you see a list of all your servers, click on the \"Dashboard\" button under the server, so you can get to the Dashboard of the server.", 
             "title": "Dashboard of LenoxBot"
         }, 
         {
-            "location": "/General FAQ/Website/Dashboard/#dashboard", 
-            "text": "What offers our Dashboard?\nWhere can I find the Dashboard?", 
-            "title": "Dashboard"
+            "location": "/General FAQ/Website/dashboard/#where-can-i-find-the-dashboard", 
+            "text": "Here you can find our Dashboard:   Click on the Dashboard-Button:  Dashboard  If you aren't logged in now please click on the \"Log in\" button in the right corner of the website.  If you aren't logged in with your Discord Account you have to login so you can authorize the LenoxBot.  Than you see a list of all your servers, click on the \"Dashboard\" button under the server, so you can get to the Dashboard of the server.", 
+            "title": "Where can I find the Dashboard?"
         }, 
         {
             "location": "/Modules/Administration/", 
