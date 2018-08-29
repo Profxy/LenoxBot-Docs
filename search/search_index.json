@@ -92,13 +92,18 @@
         }, 
         {
             "location": "/General FAQ/Help/Report a bug/", 
-            "text": "Report a bug\n\n\nIf you want to report a bug, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nGo to the \n[#bugreports](https://discordapp.com/channels/352896116812939264/447371541441937408)\n channel.\n\n\n\nThen you type \n?bugreport\n in the chat.\n\n\n\nJust fill out all answers and wait for feedback from the Bugreporter.\n\n\n\n\nAfter you have answered all the questions, your bugreport will be sent in the #processing-bugreports channel. In this channel the \"Bugreporter\" processed your bugreport. They can accept your bugreport, reject it, add notes or attach a screenshot.\n\n\nAfter your bugreport has been accepted by three different Bugreporters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.", 
+            "text": "Report a bug\n\n\nIf you want to report a bug, do the following steps:\n\n\n\n\nJoin the LenoxBot Discord Server: \nJoin\n\n\nGo to the \n#bugreports\n channel.\n\n\nThen type \n?bugreport\n in the chat.\n\n\n\n\n\n\n\n\nThen you will be asked questions from the bot you should answer. You've 10 minutes for each question!\n\n\n\n\n\n\n\n\nAfter you filled out all answers of the Bot and wait for feedback from a Bugreporter.\n\n\nEvery \"Bugreporter\" can accept your bugreport, reject it, add some notes or attach a screenshot.\n\n\nAfter your bugreport has been accepted by three different Bugreporters, you will receive 100 credits as a reward and your report will be moved to the archive.\n\n\n\n\nHow do I become a Bugreporter?\n\n\nIf you want to become a Bugreporter, please visit this description: \nHow to become a Bugreporter", 
             "title": "Report a bug"
         }, 
         {
             "location": "/General FAQ/Help/Report a bug/#report-a-bug", 
-            "text": "If you want to report a bug, do the following steps:   Join the LenoxBot Discord Server:  Join  Go to the  [#bugreports](https://discordapp.com/channels/352896116812939264/447371541441937408)  channel.  Then you type  ?bugreport  in the chat.  Just fill out all answers and wait for feedback from the Bugreporter.   After you have answered all the questions, your bugreport will be sent in the #processing-bugreports channel. In this channel the \"Bugreporter\" processed your bugreport. They can accept your bugreport, reject it, add notes or attach a screenshot.  After your bugreport has been accepted by three different Bugreporters, you will receive 100 crtedits as a reward. In addition, your report will be moved to the archive.", 
+            "text": "If you want to report a bug, do the following steps:   Join the LenoxBot Discord Server:  Join  Go to the  #bugreports  channel.  Then type  ?bugreport  in the chat.     Then you will be asked questions from the bot you should answer. You've 10 minutes for each question!     After you filled out all answers of the Bot and wait for feedback from a Bugreporter.  Every \"Bugreporter\" can accept your bugreport, reject it, add some notes or attach a screenshot.  After your bugreport has been accepted by three different Bugreporters, you will receive 100 credits as a reward and your report will be moved to the archive.", 
             "title": "Report a bug"
+        }, 
+        {
+            "location": "/General FAQ/Help/Report a bug/#how-do-i-become-a-bugreporter", 
+            "text": "If you want to become a Bugreporter, please visit this description:  How to become a Bugreporter", 
+            "title": "How do I become a Bugreporter?"
         }, 
         {
             "location": "/General FAQ/Help/Social Media/", 
@@ -142,18 +147,18 @@
         }, 
         {
             "location": "/General FAQ/Help/Trello/", 
-            "text": "Trello\n\n\nHere is the link to our Trello board, where you can report a bug or send us a proposal.\n\n\n\n\nHere is our Trello account: \nTrello", 
+            "text": "Trello\n\n\nHere you can find the link to our Trello board, where you can see all about reportet bugs or proposals:\n\n\n\n\nHere is our Trello board: \nTrello", 
             "title": "Trello"
         }, 
         {
             "location": "/General FAQ/Help/Trello/#trello", 
-            "text": "Here is the link to our Trello board, where you can report a bug or send us a proposal.   Here is our Trello account:  Trello", 
+            "text": "Here you can find the link to our Trello board, where you can see all about reportet bugs or proposals:   Here is our Trello board:  Trello", 
             "title": "Trello"
         }, 
         {
             "location": "/General FAQ/Team/Bugreporter/", 
             "text": "How do I become a Bugreporter?\n\n\nIf you want to become a Bugreporter, do the following steps:\n\n\nWe've developed a pointsystem which decides when you will be a Bugreporter.\n- You get for every bugreport 2 points\n\n\n\n\n\n\nIf you reached 10 points / 5 accepted bugreports, you will become a Bugreporter and get access to help us with our bugreports!\n\n\n\n\n\n\nIf you have any questions, feel free write your question in \n#support\n to find a solution together with our LenoxBot-Team!\n\n\n\n\n\n\n\n\nReport a bug\n\n\nIf you want to make a proposal visit this description: \nReport a bug", 
-            "title": "How to become a Bugreporter"
+            "title": "Bugreporter"
         }, 
         {
             "location": "/General FAQ/Team/Bugreporter/#how-do-i-become-a-bugreporter", 
@@ -196,17 +201,17 @@
             "title": "How to become a Moderator of LenoxBot?"
         }, 
         {
-            "location": "/General FAQ/Team/Proposal-Writer/", 
+            "location": "/General FAQ/Team/Proposalwriter/", 
             "text": "How to become a Proposalwriter?\n\n\nIf you want to become a Proposalwriter, do the following steps:\n\n\nWe have developed a pointsystem which decides when you become be a Proposalwriter.\n\n\nThe system works like this:\n\n\n\n\nYou get 2 points for every accepted suggestion\n\n\n\n\nAs soon as you have reached 10 points / 5 accepted suggestions, you become a Proposalwriter and can help us to work on the suggestions!\n\n\nMake a proposal\n\n\nIf you want to make a proposal visit this description: \nMake a proposal", 
-            "title": "How to become a Proposalwriter"
+            "title": "Proposalwriter"
         }, 
         {
-            "location": "/General FAQ/Team/Proposal-Writer/#how-to-become-a-proposalwriter", 
+            "location": "/General FAQ/Team/Proposalwriter/#how-to-become-a-proposalwriter", 
             "text": "If you want to become a Proposalwriter, do the following steps:  We have developed a pointsystem which decides when you become be a Proposalwriter.  The system works like this:   You get 2 points for every accepted suggestion   As soon as you have reached 10 points / 5 accepted suggestions, you become a Proposalwriter and can help us to work on the suggestions!", 
             "title": "How to become a Proposalwriter?"
         }, 
         {
-            "location": "/General FAQ/Team/Proposal-Writer/#make-a-proposal", 
+            "location": "/General FAQ/Team/Proposalwriter/#make-a-proposal", 
             "text": "If you want to make a proposal visit this description:  Make a proposal", 
             "title": "Make a proposal"
         }, 
@@ -339,6 +344,21 @@
             "location": "/Modules/Utility/#utility-commands", 
             "text": "serverwarns  - Shows you all given warns on this Discord Server (Needed permissions: none)  botinfo  - Informations about the bot (Needed permissions: none)  calculator {calculation}  - Calculates for you an calculation (Needed permissions: none)  channels  - A list of all channels on your Discord server (Needed permissions: none)  channeltopic  - Shows you the channel topic of the current channel if one exists (Needed permissions: none)  embed {text}  - Create an embed for you with any text. Use // to go to a new line (Needed permissions: none)  inrole {rolename}  - Allows you to see which members have a specific role (Needed permissions: none)  join {rolename}  - Join a self-assignable role (Needed permissions: none)  leave {rolename}  - Leave a self-assignable role (Needed permissions: none)  listselfassignablerole  - Shows you a list of all roles that allows users to assign themselves (Needed permissions: none)  memberstatus  - Shows you how many members on this Discord server are online, idle, offline or busy (Needed permissions: none)  nicknamelog [@User]  - Shows you the nickname log of you or another user (Needed permissions: none)  ping  - Shows you how long the bot needs to send a message (Needed permissions: none)  randomnumber {input}  - Selects a random number between your input and 1 (Needed permissions: none)  rank [@USER]  - Displays the points of you or another user (Needed permissions: none)  ranks  - Ranking list, sorted by points (Needed permissions: none)  redeem {key}  - Redeem a redeem key from another Discord user (Needed permissions: none)  redeemkey  - Shows you your redeem key so that other users can redeem it (Needed permissions: none)  roles  - A list of all roles on your Discord server (Needed permissions: none)  serverinfo  - Shows you some information about the current Discord server (Needed permissions: none)  setprofiledescription {description}  - Sets a global profile description (Needed permissions: none)  userinfo [@User/UserID]  - Gives you information about you or another user (Needed permissions: none)  useserverkey {key}  - With this command you can use a premium serverkey for a Discord server (Needed permissions: none)  useuserkey {key}  - With this command, you can use a premium userkey for your Discord account (Needed permissions: none)", 
             "title": "Utility commands"
+        }, 
+        {
+            "location": "/Tutorials/Create a playlist/", 
+            "text": "How to create a playlist?\n\n\nIf you want to create a playlist, do the following steps:\n\n \nImportant:\n This is a premium only command.\n\n Type \n?help playlist\n in the chat to see all playlist commands.\n* And after you've done that, the LenoxBot will response wit a list of all playlist commands and examples for them.\n\n\nExamples for the playlist commands:\n\n\nHere is a list of a few exaples for the playlist commands:\n\n Type \n?playlist new {name}\n in the chat to create a new playlist.\n\n Type \n?playlist list\n in the chat, to see a list of all playlists on the server.\n\n Type \n?playlist list {playlist_name}\n to see all songs in the playlist.\n\n Type \n?playlist delete {playlist_name}\n to delete a playlist.\n\n Type \n?playlist addsong  {playlist_name} {song_name}\n to add a song to the playlist.\n\n Type \n?playlist removesong  {playlist_name} {song_name}\n to remove a song from the playlist.", 
+            "title": "Create a playlist"
+        }, 
+        {
+            "location": "/Tutorials/Create a playlist/#how-to-create-a-playlist", 
+            "text": "If you want to create a playlist, do the following steps:   Important:  This is a premium only command.  Type  ?help playlist  in the chat to see all playlist commands.\n* And after you've done that, the LenoxBot will response wit a list of all playlist commands and examples for them.", 
+            "title": "How to create a playlist?"
+        }, 
+        {
+            "location": "/Tutorials/Create a playlist/#examples-for-the-playlist-commands", 
+            "text": "Here is a list of a few exaples for the playlist commands:  Type  ?playlist new {name}  in the chat to create a new playlist.  Type  ?playlist list  in the chat, to see a list of all playlists on the server.  Type  ?playlist list {playlist_name}  to see all songs in the playlist.  Type  ?playlist delete {playlist_name}  to delete a playlist.  Type  ?playlist addsong  {playlist_name} {song_name}  to add a song to the playlist.  Type  ?playlist removesong  {playlist_name} {song_name}  to remove a song from the playlist.", 
+            "title": "Examples for the playlist commands:"
         }, 
         {
             "location": "/Tutorials/How to set-up the mute-command/", 
