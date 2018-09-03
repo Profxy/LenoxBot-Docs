@@ -217,13 +217,28 @@
         }, 
         {
             "location": "/General FAQ/Team/Translator/", 
-            "text": "How to become a translator of LenoxBot?\n\n\nYou want to be a \ntranslator\n? \nContanct \nDanNick#8108\n via Discord or \n@DanNick_MC via Twitter", 
+            "text": "What\u2019s a translator?\n\n\nTranslators are \nvolunteers\n who are contributing to the \nLenoxBot localization project in Crowdin\n and who are helping to facilitate using the LenoxBot for people \nspeaking different languages\n in this way. Therefore, they \ntranslate\n every message of the Bot into one or more of our aim languages and \nvote\n for translations suggested by other users to \nfacilitate\n the work of the proofreaders. Translators are not members of the LenoxBot staff.\n\n\nWhat\u2019s a translation proofreader?\n\n\nProofreaders are staff members who are responsible for an \nappropriate translation\n in their aim language. All of them have to \nproofread translations\n and provide the best translation quality for their specific aim languages. Some of them also have \nadditional tasks\n, e.g. keeping a list of common translations to \nprovide consistency\n in their aim language. Translations proofreaders are active translators chosen by the translation leader DanNick; that\u2019s why you cannot apply as a proofreader.\n\n\nHow can I participate at LenoxBot translation and become a translator?\n\n\nTo \u201cbecome\u201d a translator, you just have to \nbe on our \nDiscord server\n and execute \n?join Translator\n in #spam. To start translation, you have to \nsign up for Crowdin\n and use \nthis link\n to get redirected to our project.\nTo get started, we recommend you to have a look at the \nCrowdin translation tour\n, where every important feature is described clearly.\n\n\nCan I lose my translation role? What will happen with trolls?\n\n\nIf you are \ninactive\n for a certain time, you may \nlose\n your translation role on the Discord server. If you want to continue translation, just \nre-assign\n it yourself.\nWhenever people think that our Crowdin project is a place to \ntroll\n and to \nplay up\n, all their translations may get \ndeleted\n and they may get \nblocked\n from the translation project. But don\u2019t worry, if you just want to help us localize the bot, this won\u2019t happen to you.\n\n\nSo, what are you waiting for? We\u2019re happy about every single user who has the time and the motivation to help us. Maybe you will become a proofreader one day?", 
             "title": "Translator"
         }, 
         {
-            "location": "/General FAQ/Team/Translator/#how-to-become-a-translator-of-lenoxbot", 
-            "text": "You want to be a  translator ? \nContanct  DanNick#8108  via Discord or  @DanNick_MC via Twitter", 
-            "title": "How to become a translator of LenoxBot?"
+            "location": "/General FAQ/Team/Translator/#whats-a-translator", 
+            "text": "Translators are  volunteers  who are contributing to the  LenoxBot localization project in Crowdin  and who are helping to facilitate using the LenoxBot for people  speaking different languages  in this way. Therefore, they  translate  every message of the Bot into one or more of our aim languages and  vote  for translations suggested by other users to  facilitate  the work of the proofreaders. Translators are not members of the LenoxBot staff.", 
+            "title": "What\u2019s a translator?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Translator/#whats-a-translation-proofreader", 
+            "text": "Proofreaders are staff members who are responsible for an  appropriate translation  in their aim language. All of them have to  proofread translations  and provide the best translation quality for their specific aim languages. Some of them also have  additional tasks , e.g. keeping a list of common translations to  provide consistency  in their aim language. Translations proofreaders are active translators chosen by the translation leader DanNick; that\u2019s why you cannot apply as a proofreader.", 
+            "title": "What\u2019s a translation proofreader?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Translator/#how-can-i-participate-at-lenoxbot-translation-and-become-a-translator", 
+            "text": "To \u201cbecome\u201d a translator, you just have to  be on our  Discord server  and execute  ?join Translator  in #spam. To start translation, you have to  sign up for Crowdin  and use  this link  to get redirected to our project.\nTo get started, we recommend you to have a look at the  Crowdin translation tour , where every important feature is described clearly.", 
+            "title": "How can I participate at LenoxBot translation and become a translator?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Translator/#can-i-lose-my-translation-role-what-will-happen-with-trolls", 
+            "text": "If you are  inactive  for a certain time, you may  lose  your translation role on the Discord server. If you want to continue translation, just  re-assign  it yourself.\nWhenever people think that our Crowdin project is a place to  troll  and to  play up , all their translations may get  deleted  and they may get  blocked  from the translation project. But don\u2019t worry, if you just want to help us localize the bot, this won\u2019t happen to you.  So, what are you waiting for? We\u2019re happy about every single user who has the time and the motivation to help us. Maybe you will become a proofreader one day?", 
+            "title": "Can I lose my translation role? What will happen with trolls?"
         }, 
         {
             "location": "/General FAQ/Website/dashboard/", 
