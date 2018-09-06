@@ -156,6 +156,16 @@
             "title": "Trello"
         }, 
         {
+            "location": "/General FAQ/Help/Updates/", 
+            "text": "", 
+            "title": "Updates"
+        }, 
+        {
+            "location": "/General FAQ/Team/Administrator/", 
+            "text": "", 
+            "title": "Administrator"
+        }, 
+        {
             "location": "/General FAQ/Team/Bugreporter/", 
             "text": "How do I become a Bugreporter?\n\n\nIf you want to become a Bugreporter, do the following steps:\n\n\nWe've developed a pointsystem which decides when you will be a Bugreporter.\n- You get for every bugreport 2 points\n\n\n\n\n\n\nIf you reached 10 points / 5 accepted bugreports, you will become a Bugreporter and get access to help us with our bugreports!\n\n\n\n\n\n\nIf you have any questions, feel free write your question in \n#support\n to find a solution together with our LenoxBot-Team!\n\n\n\n\n\n\n\n\nReport a bug\n\n\nIf you want to make a proposal visit this description: \nReport a bug", 
             "title": "Bugreporter"
@@ -374,6 +384,26 @@
             "location": "/Tutorials/Create a playlist/#examples-for-the-playlist-commands", 
             "text": "Here is a list of a few exaples for the playlist commands:  Type  ?playlist new {name}  in the chat to create a new playlist.  Type  ?playlist list  in the chat, to see a list of all playlists on the server.  Type  ?playlist list {playlist_name}  to see all songs in the playlist.  Type  ?playlist delete {playlist_name}  to delete a playlist.  Type  ?playlist addsong  {playlist_name} {song_name}  to add a song to the playlist.  Type  ?playlist removesong  {playlist_name} {song_name}  to remove a song from the playlist.", 
             "title": "Examples for the playlist commands:"
+        }, 
+        {
+            "location": "/Tutorials/How can I host my own instance of LenoxBot/", 
+            "text": "How can I host my own instance of LenoxBot?\n\n\nWindows\n\n\nYou must have already installed NPM, Git and NodeJS! There are many tutorials online on how to install all these packages for your operating system.\n\n\n\n\nClone this repository (Branch: Master)\n\n\nExecute \n$ git clone https://github.com/Monkeyyy11/LenoxBot.git --branch master\n\n\n\n\n\n\nNow you have to execute a few commands in the folder in which you cloned LenoxBot:\n\n\n$ npm -g --add-python-to-path install windows-build-tools node-gyp\n\n\n$ npm i --global --production windows-build-tools\n\n\n$ npm i -S canvas@next\n\n\n$ npm i -g ffmpeg-binaries\n\n\n$ npm install\n\n\n\n\n\n\nNow you should have a folder called \nnode_modules\n. In this folder are now all your installed packages.\n\n\nNow you have to rename your \nsettings_example.json\n, file located in the main folder to \nsettings.json\n. Now enter your Discord Top Secret Token...\n\n\nYou can run the bot using the command \nnode lenoxbotapp.js\n\n\n\n\nTo invite the Bot on your Discord server, copy the Client ID of your Bot application that you find \nhere\n if you click on the application:\n\n\n\nNow you can create an invite link for your Bot \nhere\n for example.\n\n\nLinux/Debian\n\n\nYou must have already installed NPM, Git and NodeJS! There are many tutorials online on how to install all these packages for your operating system.\n\n\n\n\nClone this repository (Branch: Master)\n\n\nExecute \n$ git clone https://github.com/Monkeyyy11/LenoxBot.git --branch master\n\n\n\n\n\n\nNow you have to execute a few commands in the folder in which you cloned LenoxBot:\n\n\n$ sudo apt-get install build-essential\n\n\n$ sudo apt-get install libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential g++\n\n\n$ npm i -S canvas@next\n\n\n$ npm i -g ffmpeg-binaries\n\n\n$ npm install\n\n\n\n\n\n\nNow you should have a folder called \nnode_modules\n. In this folder are now all your installed packages.\n\n\nNow you have to rename your \nsettings_example.json\n, file located in the main folder to \nsettings.json\n. Now enter your Discord Top Secret Token...\n\n\nYou can run the bot using the command \nnode lenoxbotapp.js\n\n\n\n\nTo invite the Bot on your Discord aerver, copy the Client ID of your Bot application that you find \nhere\n if you click on the application:\n\n\n\nNow you can create an invite link for your Bot \nhere\n for example.\n\n\nIf you need any help, you can join our \nDiscord Server", 
+            "title": "How can I host my own instance LenoxBot"
+        }, 
+        {
+            "location": "/Tutorials/How can I host my own instance of LenoxBot/#how-can-i-host-my-own-instance-of-lenoxbot", 
+            "text": "", 
+            "title": "How can I host my own instance of LenoxBot?"
+        }, 
+        {
+            "location": "/Tutorials/How can I host my own instance of LenoxBot/#windows", 
+            "text": "You must have already installed NPM, Git and NodeJS! There are many tutorials online on how to install all these packages for your operating system.   Clone this repository (Branch: Master)  Execute  $ git clone https://github.com/Monkeyyy11/LenoxBot.git --branch master    Now you have to execute a few commands in the folder in which you cloned LenoxBot:  $ npm -g --add-python-to-path install windows-build-tools node-gyp  $ npm i --global --production windows-build-tools  $ npm i -S canvas@next  $ npm i -g ffmpeg-binaries  $ npm install    Now you should have a folder called  node_modules . In this folder are now all your installed packages.  Now you have to rename your  settings_example.json , file located in the main folder to  settings.json . Now enter your Discord Top Secret Token...  You can run the bot using the command  node lenoxbotapp.js   To invite the Bot on your Discord server, copy the Client ID of your Bot application that you find  here  if you click on the application:  Now you can create an invite link for your Bot  here  for example.", 
+            "title": "Windows"
+        }, 
+        {
+            "location": "/Tutorials/How can I host my own instance of LenoxBot/#linuxdebian", 
+            "text": "You must have already installed NPM, Git and NodeJS! There are many tutorials online on how to install all these packages for your operating system.   Clone this repository (Branch: Master)  Execute  $ git clone https://github.com/Monkeyyy11/LenoxBot.git --branch master    Now you have to execute a few commands in the folder in which you cloned LenoxBot:  $ sudo apt-get install build-essential  $ sudo apt-get install libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential g++  $ npm i -S canvas@next  $ npm i -g ffmpeg-binaries  $ npm install    Now you should have a folder called  node_modules . In this folder are now all your installed packages.  Now you have to rename your  settings_example.json , file located in the main folder to  settings.json . Now enter your Discord Top Secret Token...  You can run the bot using the command  node lenoxbotapp.js   To invite the Bot on your Discord aerver, copy the Client ID of your Bot application that you find  here  if you click on the application:  Now you can create an invite link for your Bot  here  for example.  If you need any help, you can join our  Discord Server", 
+            "title": "Linux/Debian"
         }, 
         {
             "location": "/Tutorials/How to set-up the mute-command/", 
