@@ -157,13 +157,33 @@
         }, 
         {
             "location": "/General FAQ/Help/Updates/", 
-            "text": "", 
+            "text": "Find our updates\n\n\nIf you want to know where you can find our updates and what we added, changed or removed, here you can find it:\n\n\n\n\nThe first way to find our updates is to join our \nDiscord\n and take a look in the \n#announcements\n channel.\n\n\nThe second way to find our updates is to take a look in our \nBlog\n.\n\n\nThe third way to find our updates is to take a look at our \nTwitter\n.\n\n\nThe fourth way to find our updates it to take a look at our \nFacebook\n.\n\n\n\n\nCan I subscribe one of the ways?\n\n\nCan can follow the second, third and fourth way to get notified about our new updates.\n\n\n\n\nYou can follow our \nBlog\n by clicking on the \"Follow\" button in the left corner.\n\n\nYou can also follow our \nTwitter\n account by clicking the \"Follow\" button on the right.\n\n\nYou can subscribe our \nFacebook\n account by clicking on the \"Subscribe\" button in the middle of the website.", 
             "title": "Updates"
         }, 
         {
+            "location": "/General FAQ/Help/Updates/#find-our-updates", 
+            "text": "If you want to know where you can find our updates and what we added, changed or removed, here you can find it:   The first way to find our updates is to join our  Discord  and take a look in the  #announcements  channel.  The second way to find our updates is to take a look in our  Blog .  The third way to find our updates is to take a look at our  Twitter .  The fourth way to find our updates it to take a look at our  Facebook .", 
+            "title": "Find our updates"
+        }, 
+        {
+            "location": "/General FAQ/Help/Updates/#can-i-subscribe-one-of-the-ways", 
+            "text": "Can can follow the second, third and fourth way to get notified about our new updates.   You can follow our  Blog  by clicking on the \"Follow\" button in the left corner.  You can also follow our  Twitter  account by clicking the \"Follow\" button on the right.  You can subscribe our  Facebook  account by clicking on the \"Subscribe\" button in the middle of the website.", 
+            "title": "Can I subscribe one of the ways?"
+        }, 
+        {
             "location": "/General FAQ/Team/Administrator/", 
-            "text": "", 
+            "text": "Whats an Administrator?\n\n\nAdministrators are \nmanagers\n who manage the whole bot and staff team. You identify Administrators with the red role \"Administrator\" on our \nSupport Discord server\n.\n\n\n\n\nTasks of an Administator:\n* Manage the whole bot\n  - \nSupport Discord server\n\n  - \nDashboard\n\n  - \nLenoxBot localization project in Crowdin\n\n  - \nLenoxBot GitHub project (Documentation)\n\n  - Staff team\n\n\nHow to become an Administrator of LenoxBot?\n\n\nIf we need new Administrator(s), we search for good Administrator(s).", 
             "title": "Administrator"
+        }, 
+        {
+            "location": "/General FAQ/Team/Administrator/#whats-an-administrator", 
+            "text": "Administrators are  managers  who manage the whole bot and staff team. You identify Administrators with the red role \"Administrator\" on our  Support Discord server .   Tasks of an Administator:\n* Manage the whole bot\n  -  Support Discord server \n  -  Dashboard \n  -  LenoxBot localization project in Crowdin \n  -  LenoxBot GitHub project (Documentation) \n  - Staff team", 
+            "title": "Whats an Administrator?"
+        }, 
+        {
+            "location": "/General FAQ/Team/Administrator/#how-to-become-an-administrator-of-lenoxbot", 
+            "text": "If we need new Administrator(s), we search for good Administrator(s).", 
+            "title": "How to become an Administrator of LenoxBot?"
         }, 
         {
             "location": "/General FAQ/Team/Bugreporter/", 
